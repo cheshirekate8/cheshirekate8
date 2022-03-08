@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheshirekate8" alt="cheshirekate8" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [cheshirekate8.github.io](cheshirekate8.github.io)
+<!-- - 👨‍💻 All of my projects are available at [cheshirekate8.github.io](cheshirekate8.github.io) -->
 
 - 📫 How to reach me **katie.f.young@me.com**
 
