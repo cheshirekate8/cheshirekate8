@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katie</h1>
+<h1 align="center">👋 &nbsp;Hi, I'm Katie</h1>
 
 ### 👩‍🎤 &nbsp;About Me
 
