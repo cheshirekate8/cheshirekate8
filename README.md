@@ -4,7 +4,6 @@
 
 🎨 &nbsp;I was most recently a Software Engineer at Dusk Labs.\
 🎓 &nbsp;I earned my appAcademy full stack certificate September 2021.\
-📄 &nbsp;Take a look at my [Resume](https://cheshirekate8.github.io/KatieYoungResume.pdf) to learn more about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-05122A?style=flat&logo=apollographql)&nbsp;
