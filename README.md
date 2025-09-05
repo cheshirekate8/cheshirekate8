@@ -2,10 +2,8 @@
 
 ### 👩‍🎤 &nbsp;About Me
 
-🎨 &nbsp;I am currently Lead Shopify Developer at Art Brand Studios.\
+🎨 &nbsp;I was most recently a Software Engineer at Dusk Labs.\
 🎓 &nbsp;I earned my appAcademy full stack certificate September 2021.\
-👩‍💻 &nbsp;My most recently completed project is my [Project Management App](https://project-mgmt-app-client-three.vercel.app/)\
-✍️ &nbsp;My next project will be a Cards Against Humanity Deck Builder.\
 📄 &nbsp;Take a look at my [Resume](https://cheshirekate8.github.io/KatieYoungResume.pdf) to learn more about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
