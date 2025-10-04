@@ -1,7 +1,7 @@
 <h1 align="center">👋 &nbsp;Hi, I'm Katie</h1>
 
 ## 💫 About Me:
-⏳  I am a 4 year, fullstack developer with frontend expertise.<br>👩‍💻  I was most recently a Software Engineer at Dusk Labs.<br>🎓  I earned my appAcademy full stack certificate September 2021.<br>🎤  Fun fact: I love standup comedy!
+⏳  I am a 4 year, fullstack developer with frontend expertise.<br>👩‍💻  I was most recently a Software Engineer at Dusk Labs.<br>🚧 I'm currently working on a Cards Against Humanity Deck Builder.<br>🎓  I earned my appAcademy full stack certificate September 2021.<br>🎤  Fun fact: I love standup comedy!
 
 
 ## 🌐 Socials:
